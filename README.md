@@ -5,5 +5,6 @@
 
 ## 基础知识
 + [图卷积网络 GCN Graph Convolutional Network（谱域GCN）的理解和详细推导](https://blog.csdn.net/yyl424525/article/details/100058264).
++ [如何理解 Graph Convolutional Network（GCN）？](https://www.zhihu.com/question/54504471).
 
 
