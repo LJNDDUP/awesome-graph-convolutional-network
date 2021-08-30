@@ -7,5 +7,6 @@
 + [图卷积网络 GCN Graph Convolutional Network（谱域GCN）的理解和详细推导](https://blog.csdn.net/yyl424525/article/details/100058264).
 + [如何理解 Graph Convolutional Network（GCN）？](https://www.zhihu.com/question/54504471).
     - 特征f随时间t的变化正比于拉普拉斯算子L作用在特征f上。
+    - 优化过程中的算子由梯度算子▽变成拉普拉斯算子L。
 
 
