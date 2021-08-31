@@ -18,8 +18,12 @@
 
 
 ## 2019
+### CVPR
++ [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/pdf/1904.03582.pdf). Zhao-Min Chen. 南京大学新型软件技术国家重点实验室. [code](https://github.com/Megvii-Nanjing/ML-GCN).
+![](https://img.shields.io/github/stars/Megvii-Nanjing/ML-GCN.svg)
+
 ### ICCV
 + [DeepGCNs: Can GCNs Go As Deep As CNNs?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.pdf). Guohao Li. 沙特阿拉伯，图瓦尔，KAUST可视化计算中心. [code](https://github.com/lightaime/deep_gcns_torch). 
 ![](https://img.shields.io/github/stars/lightaime/deep_gcns_torch.svg) 
     - 研究深度GCN的设计和分析，借鉴了CNN中加深网络的方法，主要包括残差连接、密集连接和膨胀卷积。
-+ 
+
