@@ -11,4 +11,6 @@
 
 ## 2019
 ### ICCV
-+ [DeepGCNs: Can GCNs Go As Deep As CNNs?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.pdf). Guohao Li. Visual Computing Center, KAUST, Thuwal, Saudi Arabia. [code](). 
++ [DeepGCNs: Can GCNs Go As Deep As CNNs?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.pdf). Guohao Li. Visual Computing Center, KAUST, Thuwal, Saudi Arabia. [code](https://github.com/lightaime/deep_gcns_torch). 
+    - 借鉴了CNN中加深网络的方法，主要包括残差连接、密集连接和膨胀卷积。
++ [Simple and Deep Graph Convolutional Networks](https://arxiv.org/pdf/2007.02133.pdf). Ming Chen. School of Information, Renmin University of China. [code](https://github.com/DropEdge/DropEdge).
