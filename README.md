@@ -27,3 +27,14 @@
 ![](https://img.shields.io/github/stars/lightaime/deep_gcns_torch.svg) 
     - 研究深度GCN的设计和分析，借鉴了CNN中加深网络的方法，主要包括残差连接、密集连接和膨胀卷积。
 
+
+## 2018
+### ICLR
++ [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf). Petar Velickovic. 剑桥大学计算机科学与技术系. [code](https://github.com/PetarV-/GAT).
+![](https://img.shields.io/github/stars/PetarV-/GAT.svg)
+
+
+## 2017
+### ICLR
++ [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf). Thomas N. Kipf. 阿姆斯特丹大学. [code](https://github.com/tkipf/gcn).
+![](https://img.shields.io/github/stars/tkipf/gcn.svg)
