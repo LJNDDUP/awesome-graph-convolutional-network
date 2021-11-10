@@ -32,9 +32,14 @@
 ### ICLR
 + [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf). Petar Velickovic. 剑桥大学计算机科学与技术系. [code](https://github.com/PetarV-/GAT).
 ![](https://img.shields.io/github/stars/PetarV-/GAT.svg)
+    - Operations on graph
+    - 通过使用masked自注意力机制层，以共享的方式应用在所有边上，因此不需要预先访问图结构，更有利于给相同邻域的不同节点分配不同的重要性，且更具解释性
 
 
 ## 2017
 ### ICLR
 + [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf). Thomas N. Kipf. 阿姆斯特丹大学. [code](https://github.com/tkipf/gcn).
 ![](https://img.shields.io/github/stars/tkipf/gcn.svg)
+    - Operations on graph
+    - 通过谱图卷积的局部一阶近似，来构建卷积网络结构
+    - 通过图结构中部分有标签的节点数据对卷积神经网络结构模型训练，使得模型对无标签的节点数据进行分类
