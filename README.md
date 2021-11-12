@@ -21,7 +21,7 @@
 ### CVPR
 + [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/pdf/1904.03582.pdf). Zhao-Min Chen. 南京大学新型软件技术国家重点实验室. [code](https://github.com/Megvii-Nanjing/ML-GCN).
 ![](https://img.shields.io/github/stars/Megvii-Nanjing/ML-GCN.svg)
-    - Adjacent Matrix
+    - Task-related
     - 提出一个基于图的多标签分类模型，其中每个节点（标签）由标签的Embedding表示
     - GCN通过学习将标签图映射为一组相互依赖的目标分类器，再将这些分类器应用到由另一个子网络提取的图像描述子上，组成端到端的网络
     - 提出一种新的重加权方案来创建一个有效的标签关联矩阵，指导信息在节点之间传播
