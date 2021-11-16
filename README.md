@@ -4,17 +4,17 @@
 
 
 ## 基础知识
-+ [图卷积网络 GCN Graph Convolutional Network（谱域GCN）的理解和详细推导](https://blog.csdn.net/yyl424525/article/details/100058264).
-+ [如何理解 Graph Convolutional Network（GCN）？](https://www.zhihu.com/question/54504471).
-    - 特征f随时间t的变化正比于拉普拉斯算子L作用在特征f上。
-    - 优化过程中的算子由梯度算子▽变成拉普拉斯算子L。
++ [谱图理论](https://zhuanlan.zhihu.com/p/362416124).
++ [从CNN到GCN的联系与区别](https://www.zhihu.com/question/54504471/answer/332657604).
 
 
 ## 2020
 ### ICML
 + [Simple and Deep Graph Convolutional Networks](https://arxiv.org/pdf/2007.02133.pdf). Ming Chen. 中国人民大学信息学院. [code](https://github.com/chennnM/GCNII). 
 ![](https://img.shields.io/github/stars/chennnM/GCNII.svg) 
-    - 研究深度GCN的设计和分析，提出初始残差和恒等映射。
+    - Operations on graph
+    - 由于过平滑问题，大多数GCN模型都很浅，本文研究深层GCN的设计
+    - 提出GCNII，其中使用了两种简单而有效的技术：初始残差和恒等映射
 
 
 ## 2019
