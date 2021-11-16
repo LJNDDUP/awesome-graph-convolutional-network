@@ -8,6 +8,14 @@
 + [从CNN到GCN的联系与区别](https://www.zhihu.com/question/54504471/answer/332657604).
 
 
+## 2021
+### ICCV
++ [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://arxiv.org/pdf/2108.00580.pdf). Gangming Zhao. 复旦大学. 
+    - Task-related
+    - SOTA多尺度特征学习方法使用固定拓扑结构的神经网络进行跨空间、跨尺度的特征交互
+    - 提出图特征金字塔网络，能够自适应地调整拓扑结构以适应不同的内在图像结构，支持在所有尺度上同时地进行特征交互
+
+
 ## 2020
 ### ICML
 + [Simple and Deep Graph Convolutional Networks](https://arxiv.org/pdf/2007.02133.pdf). Ming Chen. 中国人民大学信息学院. [code](https://github.com/chennnM/GCNII). 
