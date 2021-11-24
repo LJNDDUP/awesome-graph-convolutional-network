@@ -3,11 +3,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity)
 
 
-## 基础知识
-+ [谱图理论](https://zhuanlan.zhihu.com/p/362416124).
-+ [从CNN到GCN的联系与区别](https://www.zhihu.com/question/54504471/answer/332657604).
-
-
 ## 2021
 ### ICCV
 + [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://arxiv.org/pdf/2108.00580.pdf). Gangming Zhao. 复旦大学. 
@@ -58,3 +53,8 @@
     - Operations on graph
     - 通过谱图卷积的局部一阶近似，来构建卷积网络结构
     - 通过图结构中部分有标签的节点数据对卷积神经网络结构模型训练，使得模型对无标签的节点数据进行分类
+
+
+## 基础知识
++ [谱图理论](https://zhuanlan.zhihu.com/p/362416124).
++ [从CNN到GCN的联系与区别](https://www.zhihu.com/question/54504471/answer/332657604).
